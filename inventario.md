@@ -3,6 +3,8 @@
 
 # Oggetti in stock
 
+## Componenti:
+
 ## Schede madri
 
 - Asus. ROG Maximus XIII Hero
