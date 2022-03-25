@@ -30,4 +30,6 @@
 - Intel Core i7-7700K @4.2GHz 4-Core
 - Prosciutto di Parma DOP Stagionato 36 Mesi
 
+## Periferiche:
+
 Elettronica Padovana
