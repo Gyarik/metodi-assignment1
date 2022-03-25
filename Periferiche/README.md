@@ -1,0 +1,1 @@
+File temporaneo per committare la cartella Periferiche.
